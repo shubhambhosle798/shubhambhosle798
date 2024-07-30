@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shubham Bhosle!
 
-I’m a passionate DevOps enthusiast with 2.4 years of experience as a Test Engineer, currently on the lookout for exciting opportunities in DevOps and AWS architecture. My journey has been fueled by a love for automation and software quality, and I thrive on solving complex problems and working collaboratively with teams.
+I’m a passionate DevOps enthusiast with 2.4 years of experience as a Test Engineer, currently on the lookout for exciting opportunities in DevOps and Cloud. My journey has been fueled by a love for automation and software quality, and I thrive on solving complex problems and working collaboratively with teams.
 
 ## 🔧 Tech Stack & Tools
 
