@@ -57,11 +57,4 @@ I’m a passionate DevOps enthusiast with 2.4 years of experience as a Test Engi
 - 👥 Client Engagement
 - 🤝 Efficient Team Player
 
-## 📈 GitHub Stats
-
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-
 ## I’m always open to new connections and opportunities. 🌟 Thank you for taking the time to visit my profile! 🙌
